@@ -28,10 +28,10 @@ const footerLinks = {
 }
 
 const socialLinks = [
-  { name: "Facebook", icon: Facebook, href: "#" },
-  { name: "Twitter", icon: Twitter, href: "#" },
-  { name: "LinkedIn", icon: Linkedin, href: "#" },
-  { name: "Instagram", icon: Instagram, href: "#" },
+  { name: "Facebook", icon: Facebook, href: "https://www.facebook.com/share/1Ay56dypaZ/" },
+  { name: "Twitter", icon: Twitter, href: "https://x.com/AllanadAll72519" },
+  // { name: "LinkedIn", icon: Linkedin, href: "https://www.tiktok.com/@allanad.care?_r=1&_t=ZN-95PcM5gY26g" },
+  { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/allanadcare?igsh=MTFtcW5vMTJscG1jdg==" },
 ]
 
 export function Footer() {
@@ -128,9 +128,9 @@ export function Footer() {
               <Mail className="h-4 w-4" />
               contact@allanadhealth.com
             </a>
-            <a href="tel:+234XXXXXXXX" className="flex items-center gap-2 hover:text-foreground">
+            <a href="tel:+234 812 887 7253" className="flex items-center gap-2 hover:text-foreground">
               <Phone className="h-4 w-4" />
-              +234 XXX XXX XXXX
+              +234 812 887 7253
             </a>
             <span className="flex items-center gap-2">
               <MapPin className="h-4 w-4" />
