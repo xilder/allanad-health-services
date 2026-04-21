@@ -8,19 +8,19 @@ const testimonials = [
   {
     quote: "The care I received through Allanad Healthcare Alliance was thoughtful and reassuring. I felt heard, supported, and properly guided.",
     author: "Patient",
-    location: "Lagos",
+    location: "Abuja",
     type: "Patient Testimonial",
   },
   {
     quote: "Our wellness collaboration helped employees understand their health better. The approach was practical and impactful.",
-    author: "Corporate Partner",
-    location: "",
+    author: "Tolu A",
+    location: "Abuja",
     type: "Corporate Partner",
   },
   {
     quote: "The vision behind Allanad Healthcare Alliance is refreshing. It blends clinical care with forward-thinking digital health innovation.",
-    author: "Healthcare Consultant",
-    location: "",
+    author: "Dr. Fagbemi A",
+    location: "Abuja",
     type: "Healthcare Professional",
   },
 ]

@@ -27,7 +27,7 @@ export function FounderMessage() {
         
         <div className="mt-8">
           <p className="text-sm font-semibold text-foreground">— Founder</p>
-          <p className="text-sm text-muted-foreground">Allanad Healthcare Alliance</p>
+          <p className="text-sm text-muted-foreground">Dr Stephen Dike</p>
         </div>
       </div>
     </Section>
